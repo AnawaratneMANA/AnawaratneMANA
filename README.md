@@ -23,7 +23,12 @@ Tools and Technologies:
 ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=#61DAFB)&nbsp;
 ![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring-Boot)&nbsp;
+
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=#DD0031)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=Sass)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)&nbsp;
+![VM](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)&nbsp;
+![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
 
 
 GitHub Stats:
