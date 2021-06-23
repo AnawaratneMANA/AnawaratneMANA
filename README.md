@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AnawaratneMANA&show_icons=true&theme=vue-dark&count_private=true)
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=radical)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=vue-dark)
