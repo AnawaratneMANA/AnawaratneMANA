@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ReactJS, AngularJS
+- 🔭 I’m currently working on ReactJS, AngularJS, React Native..
 - 🌱 I’m currently studying Software Engineering
 - 👯 I’m looking to collaborate on ReactJS, AngularJS, SpringBoot...
 - 🤔 I’m looking for help with AngularJS
-- 💬 About Me, Undergraduate Student at SLIIT, 3rd Year 1 Semester.
+- 💬 About Me, Undergraduate Student at SLIIT, 3rd Year 2 Semester.
 - 📫 How to reach me: IT19086408@my.sliit.lk
 - 🎥 ![YouTube](https://img.shields.io/youtube/channel/views/UClP1Ao1AajgNEO6xQNkdkHQ?style=social)&nbsp;
 : ... [YouTube Channel](https://www.youtube.com/channel/UClP1Ao1AajgNEO6xQNkdkHQ) 
