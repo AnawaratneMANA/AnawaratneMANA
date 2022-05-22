@@ -1,18 +1,19 @@
-### Hi there 👋
+# About Me
 
 
-Here are some ideas to get you started:
+*Here are some of my areas:*
 
-- 🔭 I’m currently working on ReactJS, AngularJS, React Native..
-- 🌱 I’m currently studying Software Engineering
-- 👯 I’m looking to collaborate on ReactJS, AngularJS, SpringBoot...
-- 🤔 I’m looking for help with AngularJS
-- 💬 About Me, Undergraduate Student at SLIIT, 3rd Year 2 Semester.
-- 📫 How to reach me: IT19086408@my.sliit.lk
-- 🎥 ![YouTube](https://img.shields.io/youtube/channel/views/UClP1Ao1AajgNEO6xQNkdkHQ?style=social)&nbsp;
-: ... [YouTube Channel](https://www.youtube.com/channel/UClP1Ao1AajgNEO6xQNkdkHQ) 
+-  Full stack development.
+-  DevOps
+-  Cloud. 
 
-Tools and Technologies:
+*Contacts:*
+
+-  About Me, Undergraduate Student at SLIIT, 4th Year 1 Semester.
+-  How to reach me: _it19086408@my.sliit.lk_ 
+
+## ⚒️ Tools and Technologies
+<hr><br>
 
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
@@ -29,12 +30,38 @@ Tools and Technologies:
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)&nbsp;
 ![VM](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)&nbsp;
 ![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
+![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
 
+## 🧑 Profile information
+<hr><br>
 
-GitHub Stats:
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />&nbsp;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AnawaratneMANA&show_icons=true&theme=vue-dark&count_private=true)
+## 📚 Repositories
+<hr><br>
 
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=vue-dark)
+<a href="https://github.com/AnawaratneMANA/fastapi-docker-workflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=fastapi-docker-workflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<br>
+
+## 📚 GitHub
+<hr><br>
+
+<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnawaratneMANA&show_icons=true&theme=vue-dark&count_private=true" />
+</a>
+<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
+  <img width='415' height='200' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=vue-dark" />
+</a>
+
+<br><br>
+<p align='center'>
+<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
+  <img align="center" src="https://metrics.lecoq.io/AnawaratneMANA?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" />
+</a>
+</p>
+
 
 
