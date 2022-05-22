@@ -1,15 +1,15 @@
 # About Me 
 
+Undergraduate Student at SLIIT, 4th Year 1 Semester.
 
-*Here are some of my areas:*
+## 🌍 Working Areas
 
 -  Full stack development.
 -  DevOps
 -  Cloud. 
 
-*Contacts:*
+## 📳 Contacts
 
--  About Me, Undergraduate Student at SLIIT, 4th Year 1 Semester.
 -  How to reach me: _it19086408@my.sliit.lk_ 
 
 ## ⚒️ Tools and Technologies
