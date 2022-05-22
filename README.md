@@ -1,4 +1,4 @@
-# About Me
+# About Me 
 
 
 *Here are some of my areas:*
@@ -13,7 +13,7 @@
 -  How to reach me: _it19086408@my.sliit.lk_ 
 
 ## ⚒️ Tools and Technologies
-<hr><br>
+<br>
 
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
@@ -33,12 +33,12 @@
 ![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
 
 ## 🧑 Profile information
-<hr><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />&nbsp;
 
-## 📚 Repositories
-<hr><br>
+## 📚 Latest Repositories
+<br>
 
 <a href="https://github.com/AnawaratneMANA/fastapi-docker-workflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=fastapi-docker-workflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -47,17 +47,21 @@
 <br>
 
 ## 📚 GitHub
-<hr><br>
+<br>
 
 <a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnawaratneMANA&show_icons=true&theme=vue-dark&count_private=true" />
 </a>
+<br><br>
 <a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
   <img width='415' height='200' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=vue-dark" />
 </a>
-
 <br><br>
-<p align='center'>
+
+## 💹 Usage stats
+
+
+<p align='left'>
 <a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
   <img align="center" src="https://metrics.lecoq.io/AnawaratneMANA?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" />
 </a>
