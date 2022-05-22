@@ -30,7 +30,7 @@ Undergraduate Student at SLIIT, 4th Year 1 Semester.
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)&nbsp;
 ![VM](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)&nbsp;
 ![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
-![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)&nbsp;
 
 ## 🧑 Profile information
 <br>
