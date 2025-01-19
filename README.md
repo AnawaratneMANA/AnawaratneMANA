@@ -10,7 +10,7 @@ Undergraduate Student at SLIIT, 4th Year 1 Semester.
 
 ## 📳 Contacts
 
--  How to reach me: _it19086408@my.sliit.lk_ 
+-  How to reach me: _nirmith.akash@gmail.com_ 
 
 ## ⚒️ Tools and Technologies
 <br>
