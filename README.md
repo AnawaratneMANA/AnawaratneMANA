@@ -1,71 +1,86 @@
-# About Me 
+#  🙋 About Me
 
-Undergraduate Student at SLIIT, 4th Year 1 Semester.
+Hi there! I'm **Nirmith Anawaratne**, a passionate **Software Developer and Tech Enthusiast**.  
+🎓 I hold a BSc in Software Engineering from **SLIIT** and am currently reading for my **Master’s in Cyber Security** at **UCSC (University of Colombo School of Computing)**.  
+💼 I work as a **Software Engineer at Axiata Digital Labs (ADL)** and bring close to **4 years of experience** in the tech industry.
 
-## 🌍 Working Areas
+---
 
--  Full stack development.
--  DevOps
--  Cloud. 
+## 💻 Areas of Expertise (Software Development)
 
-## 📳 Contacts
+- 🚀 Spring Boot (Java) Applications
+- ⚛️ React Native (Mobile Apps)
+- 🌐 React Web Development
+- 🧱 .NET Backend Development
 
--  How to reach me: _nirmith.akash@gmail.com_ 
+---
 
-## ⚒️ Tools and Technologies
-<br>
+## 🧠 Other Skills & Expertise
 
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=FFF)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=#007396)&nbsp;
-![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=#61DAFB)&nbsp;
-![Spring](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring-Boot)&nbsp;
+- 🖥️ Virtualization: Proxmox, VMware
+- 🌐 Networking & Firewalls: pfSense
+- 🐳 Containerization: Docker, Kubernetes, Portainer
+- 🐧 Linux: RHEL, Debian
+- 📦 NAS Solutions: OpenMediaVault (OMV)
 
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=#DD0031)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=Sass)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.js)&nbsp;
-![VM](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)&nbsp;
-![IDEs](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=JetBrains)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)&nbsp;
+---
 
-## 🧑 Profile information
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />&nbsp;
-
-## 📚 Latest Repositories
-<br>
-
-<a href="https://github.com/AnawaratneMANA/fastapi-docker-workflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=fastapi-docker-workflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<br>
-
-## 📚 GitHub
-<br>
-
-<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnawaratneMANA&show_icons=true&theme=vue-dark&count_private=true" />
-</a>
-<br><br>
-<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
-  <img width='415' height='200' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&layout=compact&theme=vue-dark" />
-</a>
-<br><br>
-
-## 💹 Usage stats
+## 🔥 Top Repositories
 
 
-<p align='left'>
-<a href="https://github.com/AnawaratneMANA/AnawaratneMANA">
-  <img align="center" src="https://metrics.lecoq.io/AnawaratneMANA?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" />
-</a>
+<table>
+  <tr align="top">
+    <td>
+      <a href="https://github.com/AnawaratneMANA/docker-compose-repository">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=docker-compose-repository&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnawaratneMANA/fuel-queue-app-client">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=fuel-queue-app-client&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr align="top">
+    <td>
+      <a href="https://github.com/AnawaratneMANA/fuel-queue-app-backend">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=fuel-queue-app-backend&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnawaratneMANA/secure-android-native-login-application">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=secure-android-native-login-application&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr align="top">
+    <td>
+      <a href="https://github.com/AnawaratneMANA/UEE-MOBILE-APPLICATION">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=UEE-MOBILE-APPLICATION&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnawaratneMANA/ctse_flutter_assignment">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnawaratneMANA&repo=ctse_flutter_assignment&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=AnawaratneMANA&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="192px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnawaratneMANA&langs_count=8&layout=compact&theme=dark&hide_border=false" height="192px"/>
 </p>
 
 
+## 📫 Let's Connect
 
+- 📧 Email: [nirmith.akash@gmail.com](mailto:nirmith.akash@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nirmith-anawaratne](https://www.linkedin.com/in/nirmith-akash-b65185201/)
+
+---
